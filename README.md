@@ -1,3 +1,7 @@
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Malindu Lakshan</h1>
 <h3 align="center">Passionate IT Student🎓| Exploring the Boundless World of Technology 🌐</h3>
 
@@ -15,12 +19,8 @@
 
 - 📫 How to reach me **malindulakshan3002@gmail.com**
 
-- 👣 Fun fact **I love to travel**
+- 😄 Fun fact: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malindu-lakshan-jm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malindu-lakshan-jm/" height="30" width="40" /></a>
-</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/malinduL?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -44,3 +44,4 @@
 <br>
 <br>
   <br>
+
