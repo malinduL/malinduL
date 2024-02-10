@@ -4,10 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Malindu Lakshan</h1>
 <h3 align="center">Passionate IT Student🎓| Exploring the Boundless World of Technology 🌐</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinduL&label=Profile%20views&color=0e75b6&style=flat" alt="malindul" /> </p>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 🔭 I’m currently working on **Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.**
 
@@ -47,10 +49,28 @@
 <br>
 <br>
   <br>
+  <div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+  </div> 
+</p>
+
+------
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 </div>
 
-------
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
