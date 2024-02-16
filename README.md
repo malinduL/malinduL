@@ -1,8 +1,9 @@
+
 <div align="center">
 <img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover "height="200" />
 </div>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">Hi 👋, I'm Malindu Lakshan<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"></h1> 
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Malindu+Lakshan;Software+Engineer)](https://git.io/typing-svg) 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Passionate IT Student🎓| Exploring the Boundless World of Technology 🌐</h3>
@@ -23,6 +24,8 @@
 
 - 📫 How to reach me **malindulakshan3002@gmail.com**
 - 🌱 Hobbies :Read 📕, Work out 💪, Music 🎧
+
+   <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
 
 - 😄 Fun fact: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
 
