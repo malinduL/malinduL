@@ -79,7 +79,6 @@
 
 <div align="center">
  <h2>:heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"></h2>
-<h4>  &copy;2024 Malindu Lakshan</h4>
 </div>
 
 
