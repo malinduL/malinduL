@@ -65,26 +65,32 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduL&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malinduL" height="192px"/>
 
 
 
- <div align=center>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20">:heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"><br/>
-  &copy; 2024 Malindu Lakshan
+ <h2>:heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"></h2>
+<h4>  &copy;2024 Malindu Lakshan</h4>
 </div>
 
+
+
+
+<p align="center"><a href="https://www.buymeacoffee.com/malinduL"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malinduL" /></a><a href="https://ko-fi.com/malinduL"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="malinduL" /></a></p>
 
 Credits: [Malindu Lakshan](https://github.com/malinduL)
 
 Last Edited on: 10/02/2024
-
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
