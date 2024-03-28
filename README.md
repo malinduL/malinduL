@@ -65,10 +65,13 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduL&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malinduL" height="192px"/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=malinduL&theme=algolia" alt="malinduL" /></p>
   <p align="center">
-<br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="malinduL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malinduL&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduL&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malinduL" height="192px"/>
+    
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
