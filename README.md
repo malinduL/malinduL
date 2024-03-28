@@ -70,6 +70,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="malinduL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malinduL&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduL&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malinduL" height="192px"/>
     
 
@@ -94,4 +95,9 @@ Credits: [Malindu Lakshan](https://github.com/malinduL)
 
 Last Edited on: 10/02/2024
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malinduL" alt="malinduL" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
