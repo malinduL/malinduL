@@ -72,7 +72,9 @@
   &nbsp;
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduL&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malinduL" height="192px"/>
-    
+
+    ##🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=malinduL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
