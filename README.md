@@ -6,7 +6,7 @@
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Malindu+Lakshan;Intern+Software+Engineer+at+SOMRO+BPO+Services+(Pvt)+Ltd)](https://git.io/typing-svg)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /><b></b>Passionate IT Student🎓| Exploring the Boundless World of Technology 🌐</h2></b>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /><b></b>Passionate IT Student🎓| Exploring the Boundless World of Technology <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /></h2></b>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinduL&label=Profile%20views&color=0e75b6&style=flat" alt="malindul" /> </p>
